@@ -1,0 +1,70 @@
+  .heading
+  {
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float:none;
+    background: white ; 
+    padding:10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    white-space:pre-line;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
+  .copy_right_footer{
+    bottom:0;
+    position:fixed;
+    background-color: rgb(4, 179, 248);
+    color:white;
+    width:100%;
+    font-family:cursive;
+    text-align:center;
+    line-height: 3;
+  }
+
+  canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top:160px;
+  }
+
+
+  
+  
+  .btn-grad {background-image: linear-gradient(to right, #360033 0%, #0b8793  51%, #360033  100%)}
+  .btn-grad {
+     margin: 10px;
+     padding: 15px 45px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     box-shadow: 0 0 20px #eee;
+     border-radius: 10px;
+     display: block;
+   }
+
+   .btn-grad:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
+  
+  
+  
